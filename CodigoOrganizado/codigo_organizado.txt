@@ -1,0 +1,20 @@
+// Directorio public
+
+Contiene los archivos a los que se puede acceder desde afuera del servidor.
+
+
+// Directorio src
+
+Contiene nuestro código.
+
+// Directorio tests
+
+Tiene las pruebas unitarias o en general las que se realicen.
+
+// Directorio vendor
+
+Contiene las librerias de terceros.
+
+----------------------------------------------------------------------------
+
+No es una obligación, es un estandar.
